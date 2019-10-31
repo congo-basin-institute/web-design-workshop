@@ -80,26 +80,33 @@ Each student will produce a personal website.
 
 ## Day 2
 
-### Session 5: Design for the Web
+### Session 6: Photography for the Web
+- Using mobile phone camera
+- Photography
+
+#### Hands on
+- Take photos
+- Prepare photos for the web
+
+### Session 7: Design for the Web
 
 - Atmosphere
 - Color
 - Type
-- Layout
-- Photography
 
 #### Hands on
 
 - Create a color palette
 - Choose a Google font
 - Setup CSS custom properties
-- Prepare photos for the web
 
-### Session 6: Art Direction for the Web
+
+### Session 8: Art Direction for the Web
 
 - Demo art directed layouts
-- Grids and Flexbox
+- Grids & Flexbox
 - Media queries
+- Layouts
 
 #### Hands on
 
@@ -108,7 +115,7 @@ Each student will produce a personal website.
 
 ## Day 3: 
 
-### Session 7: How do I publish my website
+### Session 9: How do I publish my web site?
 - Debug and testing site
 - Making changes
 
@@ -117,6 +124,5 @@ Each student will produce a personal website.
 - Finishing your site
 - Publish your site
 
-### Session 8: Presentations
+### Session 10: Presentations
 - Next steps
-- Slack channel
