@@ -96,9 +96,10 @@ Each student will produce a personal website.
 
 #### Hands on
 
-- Create a color palette
-- Choose a Google font
-- Setup CSS custom properties
+- Color palette
+- Google fonts
+- Modular Type Scale
+- CSS custom properties
 
 
 ### Session 8: Art Direction for the Web
