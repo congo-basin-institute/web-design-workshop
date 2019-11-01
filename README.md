@@ -14,25 +14,25 @@ Each student will produce a personal website.
 
 ## Day 1
 
-### Session 1: What is a web site?
+### Session 1: Setup 
 
 - Introduction
-- Files & Folders
+- Naming conventions
+- Using paths & folders
 - Tools & Apps
-- GitHub & Servers
-- Overview of HTML and CSS
+- Demo blank web site
 
 #### Hands on
 
 - Setup your computer
-- Write HTML and CSS
-- Setup GitHub account
+- Create first HTML and CSS
 
-### Session 2: How do I build a web page?
+### Session 2: How do I build a web page? 
 
 - HTML tags
 - CSS properties
-- File transfer and uploads
+- Look at how to write HTML and how to choose the proper HTML tags
+- Learn how to change the colors and type on a website.
 
 #### Hands on
 
@@ -41,12 +41,15 @@ Each student will produce a personal website.
 
 ### Session 3: How do I publish a web page?
 
+- Version control & GitHub
 - Demo GitHub Pages
 
 #### Hands on
 
 - Create “Hello World” web page
+- Setup GitHub account
 - Publish to GitHub
+
 
 
 ### Session 4: How do I build a web site?
@@ -60,11 +63,11 @@ Each student will produce a personal website.
 
 #### Hands on
 
-- Plan your site
-- Make pages
-- Link pages
+- Plan your site by sketching, writing text
+- Starting to write code and ake pages
+- Setup nav links
 - Markup text on pages
-- Add photos
+
 
 ### Session 5: How do I publish a web site?
 
@@ -82,11 +85,13 @@ Each student will produce a personal website.
 
 ### Session 6: Photography for the Web
 - Using mobile phone camera
+- Framing and Light
 - Photography
 
 #### Hands on
 - Take photos
 - Prepare photos for the web
+- Add photos to your site
 
 ### Session 7: Design for the Web
 
@@ -116,7 +121,7 @@ Each student will produce a personal website.
 
 ## Day 3: 
 
-### Session 9: How do I publish my web site?
+### Session 9: Publish my web site
 - Debug and testing site
 - Making changes
 
@@ -127,3 +132,58 @@ Each student will produce a personal website.
 
 ### Session 10: Presentations
 - Next steps
+
+
+## Links
+
+### Materials
+
+- [Learning Web Design by Jennifer Robbins](https://learningwebdesign.com/)
+
+- [Pro Git by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
+- [Pro Git by Scott Chacon and Ben Straub Français](https://git-scm.com/book/fr/v2)
+
+
+### Apps
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [GitHub Desktop](https://desktop.github.com/)
+- [Atom.io](https://atom.io/)
+- [Gimp](https://www.gimp.org/)
+- [Inkscape](https://inkscape.org/)
+- [Google Chrome](https://www.google.com/chrome/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/)
+- [MAMP](https://www.mamp.info/en/)
+
+
+### Sites
+- [Google Fonts](https://gridbyexample.com/)
+- [Modular Scale](https://www.modularscale.com/)
+- [Mozilla Developer Network](https://developer.mozilla.org/)
+- [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+- [Learn HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+- [Learn JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+- [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+- [Playground to quickly master CSS Grid](https://mozilladevelopers.github.io/playground/css-grid/)
+- [CSS Shapes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Shapes)
+- [CSS Transforms](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+- [CSS Animation](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations)
+- [CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+- [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
+
+
+
+## Games
+
+- [CSS Grid Garden](http://cssgridgarden.com/)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+
+
+## Social developer tools
+
+- [Glitch](https://glitch.com/)
+- [Codepen](https://codepen.io/)
+- [Demo site on Glitch](https://glitch.com/~ccfest-rocks-la)
+ 
+
+
