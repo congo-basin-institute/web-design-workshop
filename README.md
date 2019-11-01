@@ -17,9 +17,9 @@ Each student will produce a personal website.
 ### Session 1: Setup 
 
 - Introduction
+- Tools & Apps
 - Naming conventions
 - Using paths & folders
-- Tools & Apps
 - Demo blank web site
 
 #### Hands on
@@ -39,61 +39,55 @@ Each student will produce a personal website.
 - Markup text file
 
 
-### Session 3: How do I publish a web page?
+### Session 3: How do I build a website?
+
+- Demo blank site
+- Setup files and folders
+- Page structure
+- Setup nav links
+- Writing for the web
+
+#### Hands on
+
+- Plan your site by sketching, writing text
+- Starting to write code and make pages
+- Setup nav links
+- Markup text on pages
+
+
+### Session 4: How do I publish a website?
 
 - Version control & GitHub
+- How to use GitHub
+- Push and Pull
+- Fork and clone a repo
+- Publish to GitHub Pages
 - Demo GitHub Pages
 
 #### Hands on
 
 - Create “Hello World” web page
 - Setup GitHub account
+- Working with Git
 - Publish to GitHub
 
 
 
-### Session 4: How do I build a web site?
-
-- Demo blank site
-- Setup files and folders
-- Page structure
-- Setup nav links
-- How to add an image
-- Writing for the web
-
-#### Hands on
-
-- Plan your site by sketching, writing text
-- Starting to write code and ake pages
-- Setup nav links
-- Markup text on pages
-
-
-### Session 5: How do I publish a web site?
-
-- How to use GitHub
-- Push and Pull
-- Fork and clone a repo
-- Publish to GitHub Pages
-
-#### Hands on
-
-- Working with Git
-
 
 ## Day 2
 
-### Session 6: Photography for the Web
+### Session 5: Photography for the Web
 - Using mobile phone camera
 - Framing and Light
-- Photography
+- Photograph people and landscapes
+- Prepare photos for the web
 
 #### Hands on
 - Take photos
 - Prepare photos for the web
 - Add photos to your site
 
-### Session 7: Design for the Web
+### Session 6: Design for the Web
 
 - Atmosphere
 - Color
@@ -107,12 +101,11 @@ Each student will produce a personal website.
 - CSS custom properties
 
 
-### Session 8: Art Direction for the Web
+### Session 7: Art Direction for the Web
 
 - Demo art directed layouts
-- Grids & Flexbox
-- Media queries
-- Layouts
+- Building a Grid
+- Layout and placing content
 
 #### Hands on
 
@@ -121,7 +114,7 @@ Each student will produce a personal website.
 
 ## Day 3: 
 
-### Session 9: Publish my web site
+### Session 8: Publish my website
 - Debug and testing site
 - Making changes
 
@@ -130,7 +123,7 @@ Each student will produce a personal website.
 - Finishing your site
 - Publish your site
 
-### Session 10: Presentations
+### Session 9: Presentations
 - Next steps
 
 
