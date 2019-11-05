@@ -141,11 +141,14 @@ Each student will produce a personal website.
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [GitHub Desktop](https://desktop.github.com/)
 - [Atom.io](https://atom.io/)
-- [Gimp](https://www.gimp.org/)
-- [Inkscape](https://inkscape.org/)
 - [Google Chrome](https://www.google.com/chrome/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/)
 - [MAMP](https://www.mamp.info/en/)
+- [Gimp, photo editor](https://www.gimp.org/)
+- [Inkscape, illustration](https://inkscape.org/)
+- [OpenShot, video editor](https://www.openshot.org/)
+
+
 
 
 ### Sites
