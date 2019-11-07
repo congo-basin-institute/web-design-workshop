@@ -24,6 +24,9 @@ Each student will produce a personal website.
 - [michel1302](https://michel1302.github.io/) 
 - [michel1302 on github](https://michel1302.github.io/)
 
+- [dassikouam](https://dassikouam.github.io/)
+- [dassikouam on github](https://www.github.com/dassikouam)
+
 # Program
 
 ## Day 1
