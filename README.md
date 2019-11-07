@@ -21,7 +21,8 @@ Each student will produce a personal website.
 - [kamkodoriane](https://kamkodoriane.github.io/)
 - [kamkodoriane on github](https://github.com/kamkodoriane)
 
-- 
+- [michel1302](https://michel1302.github.io/) 
+- [michel1302 on github](https://michel1302.github.io/)
 
 # Program
 
