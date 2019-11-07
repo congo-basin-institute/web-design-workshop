@@ -186,8 +186,9 @@ Each student will produce a personal website.
 
 ## Links
 
-### Files, Paths and Naming conventions
-- [tutorial](https://learn-the-web.algonquindesign.ca/topics/paths-folders/)
+### Tutorials
+- [Files, Paths and Naming conventions](https://learn-the-web.algonquindesign.ca/topics/paths-folders/)
+- [W3C Learning CSS](https://edx.org)
 
 ### Materials
 
@@ -239,7 +240,7 @@ Each student will produce a personal website.
 
 - [Glitch](https://glitch.com/)
 - [Codepen](https://codepen.io/)
-- [Demo site on Glitch](https://glitch.com/~ccfest-rocks-la)
+
  
 
 
