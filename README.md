@@ -18,6 +18,11 @@ Each student will produce a personal website.
 - [Blondelle Mélina](https://lablondasse.github.io)
 - [Blondell Mélina on GitHub](https://www.github.com/lablondasse)
 
+- [kamkodoriane](https://kamkodoriane.github.io/)
+- [kamkodoriane on github](https://github.com/kamkodoriane)
+
+- 
+
 # Program
 
 ## Day 1
