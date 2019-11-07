@@ -149,6 +149,9 @@ Each student will produce a personal website.
 
 ## Links
 
+### Files, Paths and Naming conventions
+- [tutorial](https://learn-the-web.algonquindesign.ca/topics/paths-folders/)
+
 ### Materials
 
 - [Learning Web Design by Jennifer Robbins](https://learningwebdesign.com/)
