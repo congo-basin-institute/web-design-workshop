@@ -30,6 +30,13 @@ Each student will produce a personal website.
 - [Ngwa Rogers](https://rogers8619.github.io/)
 - [Ngwa Rogers on github](https://www.github.com/rogers8619)
 
+- [Dr. Godswill Ntsomboh Ntsefong](https://GodswillNN.github.io)
+- [Dr. Godswill Ntsomboh Ntsefong on github](https://www.github.com/GodswillNN)
+
+- []https://njnih.github.io
+
+
+
 # Program
 
 ## Day 1
