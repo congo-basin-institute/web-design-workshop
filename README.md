@@ -10,6 +10,11 @@ To provide training in HTML, CSS, Web Design and Web Site Development for studen
 
 Each student will produce a personal website.
 
+## Student websites and GitHub profile page
+
+- [Julia-yossa](https://julia-yossa.github.io/CJulia-yossa.github.io/)
+- [Julia-yossa on GitHub](https://github.com/julia-yossa)
+
 # Program
 
 ## Day 1
