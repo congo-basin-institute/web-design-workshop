@@ -15,14 +15,14 @@ Each student will produce a personal website.
 - [Julia-yossa](https://julia-yossa.github.io/CJulia-yossa.github.io/)
 - [Julia-yossa on GitHub](https://github.com/julia-yossa)
 
-- [Blondelle Mélina](https://lablondasse.github.io)
-- [Blondell Mélina on GitHub](https://www.github.com/lablondasse)
+- [Blondelle Mélina Atsafack](https://lablondasse.github.io)
+- [Blondell Mélina Atsafack on GitHub](https://www.github.com/lablondasse)
 
 - [kamkodoriane](https://kamkodoriane.github.io/)
 - [kamkodoriane on github](https://github.com/kamkodoriane)
 
-- [michel1302](https://michel1302.github.io/) 
-- [michel1302 on github](https://michel1302.github.io/)
+- [Tchuekam Tchatchoua Alain Michel](https://michel1302.github.io/) 
+- [Tchuekam Tchatchoua Alain Michel on github](https://michel1302.github.io/)
 
 - [dassikouam](https://dassikouam.github.io/)
 - [dassikouam on github](https://www.github.com/dassikouam)
@@ -33,8 +33,38 @@ Each student will produce a personal website.
 - [Dr. Godswill Ntsomboh Ntsefong](https://GodswillNN.github.io)
 - [Dr. Godswill Ntsomboh Ntsefong on github](https://www.github.com/GodswillNN)
 
-- []https://njnih.github.io
+- [Ndifor James Nih](https://njnih.github.io)
+- [Ndifor James Nih on GitHub](https://www.github.com/njnih)
 
+- [Alain Brice Tonle Tonle](https://ttab303.github.io/)
+- [Alain Brice Tonle Tonle on github](https://www.github.com/ttab303)
+
+- [Ousseni Mfouapon Mbohou](https://oussenimbohou.github.io)
+- [Ousseni Mfouapon Mbohou on github](https://www.github.com/oussenimbohou)
+
+- [tchanou-tchapda](https://tchanou-tchapda.github.io)
+- [tchanou-tchapda on github](https://github.com/tchanou-tchapda)
+
+- [Dr. Eric Nana](https://ericnana2000.github.io/)
+- [Dr. Eric Nana on GitHub](https://www.github.com/ericnana2000)
+
+- [Raoulsandjo.github.io](https://raoulsandjo.github.io)
+- [Raoulsandjo on GitHub](https://www.github.com/raoulsandjo)
+
+- [Ashu Mpey Ayuk Bernice](https://ashumpey.github.io/)
+- [Ashu Mpey AyukBernice on GitHub](https://www.github.com/ashumpey)
+
+- [Menye Yollande](https://menyeyollande.github.io)
+- [Menye Yollande on GitHub](https://www.github.com/menyeyollande)
+
+- [Eric Rostand](https://eric8514.github.io)
+- [Eric Rostand on GitHub](https://www.github.com/eric8514)
+
+- [Nicole Maffo](https://nicole-maffo.github.io/)
+- [Nicole Maffo on GitHub](https://www.github.com/nicole-maffo)
+
+- [junior Deguema.githhub.io](https://juniorDEGUEMA.githhub.io)
+- [Junior Deguema on GitHub](https://juniorDEGUEMA.githhub.io)
 
 
 # Program
