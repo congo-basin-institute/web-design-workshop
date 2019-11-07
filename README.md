@@ -27,6 +27,9 @@ Each student will produce a personal website.
 - [dassikouam](https://dassikouam.github.io/)
 - [dassikouam on github](https://www.github.com/dassikouam)
 
+- [Ngwa Rogers](https://rogers8619.github.io/)
+- [Ngwa Rogers on github](https://www.github.com/rogers8619)
+
 # Program
 
 ## Day 1
