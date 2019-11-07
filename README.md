@@ -15,6 +15,9 @@ Each student will produce a personal website.
 - [Julia-yossa](https://julia-yossa.github.io/CJulia-yossa.github.io/)
 - [Julia-yossa on GitHub](https://github.com/julia-yossa)
 
+- [Blondelle Mélina](https://lablondasse.github.io)
+- [Blondell Mélina on GitHub](https://www.github.com/lablondasse)
+
 # Program
 
 ## Day 1
