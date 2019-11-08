@@ -66,9 +66,8 @@ Each student will design and build a personal website.
 1. [Nicole Maffo](https://nicole-maffo.github.io/)
  | [GitHub Profile](https://www.github.com/nicole-maffo)
 
-1. [junior Deguema.githhub.io](https://juniorDEGUEMA.githhub.io)
- | [GitHub Profile](https://juniorDEGUEMA.githhub.io)
-
+1. [Deguema](https://juniordeguema.github.io)
+ | [GitHub Profile](https://www.github.com/juniordeguema)
 
 ## 👨‍🏫 Instructor Websites
 
