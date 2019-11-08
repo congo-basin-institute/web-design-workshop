@@ -10,6 +10,10 @@ To provide training in HTML, CSS, Web Design and Web Site Development for studen
 
 Each student will design and build a personal website.
 
+> “On Tuesday morning, my students knew no HTML or CSS. Today, they’re publishing their first web page, using CSS Grid.”   
+> – Andy Clarke
+
+
 ## 👩‍👩‍👦‍👦 Student websites and GitHub profiles
 
 1. [Julia-yossa's website](https://julia-yossa.github.io/CJulia-yossa.github.io/) | 
