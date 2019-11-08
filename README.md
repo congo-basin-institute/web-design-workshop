@@ -73,6 +73,7 @@ Each student will design and build a personal website.
 - [Articles on Smashing Magazine](https://www.smashingmagazine.com/author/andy-clarke/)
 - [On Twitter](https://twitter.com/Malarkey)
 - [GitHub Profile](https://github.com/malarkey/)
+- [Beardy Scientist](http://beardyscientist.com/)
 
 ### 🐴 Scott Gruber
 - [scottgruber.me](https://scottgruber.me/)
@@ -82,17 +83,20 @@ Each student will design and build a personal website.
 - [On Twitter](https://twitter.com/scott_gruber)
 - [GitHub Profile](https://github.com/scottgruber/)
 
-## 🌞 Links
+## 🔗 Links
 
-### ⚽️ W3C Online Courses Free!
+### 📰 Newsletters
 
-1. [HTML5 and CSS Fundamentals](https://www.edx.org/course/html5-and-css-fundamentals-3)  
+- [CSS Layout News](http://csslayout.news/)  
+A weekly collection of tutorials, news and information on all things CSS Layout by Rachel Andrew
+
+### ️👍 W3C Online Courses Free!
 Learn how to build Web sites using HTML5 and basic CSS, directly from W3C, creator of the latest Web standards.
 
-1. [CSS Basics](https://www.edx.org/course/css-basics-2)  
-Learn how to take your Web pages from bland to bold with the power of CSS styling.
+1. [HTML5 and CSS Fundamentals](https://www.edx.org/course/html5-and-css-fundamentals-3)  
+1. [CSS Basics](https://www.edx.org/course/css-basics-2)
 
-###  🏀 Learn the Web  
+### 👍 Learn the Web  
 Learn the Web is a structured, curated, living guide to web development for graphic designers. Good reference materials available.
 
 1. [All Topics](https://learn-the-web.algonquindesign.ca/topics/)
@@ -101,7 +105,7 @@ Learn the Web is a structured, curated, living guide to web development for grap
 1. [Naming Files Rules](https://learn-the-web.algonquindesign.ca/topics/naming-conventions/)
 3. [Basic typography](https://learn-the-web.algonquindesign.ca/topics/basic-typography/)
 
-### 🛠 Carpentries
+### 👍 🛠 Carpentries
 Teaching basic skills for research computing. Online workshops for Python, R, Ecology, Genomics, Geospatial Data, Working with Data, OpenRefine.
 - [Software Carpentry workshops](https://software-carpentry.org/lessons/)
 - [Data Carpentry workshops](https://datacarpentry.org/lessons/)
@@ -126,20 +130,20 @@ Teaching basic skills for research computing. Online workshops for Python, R, Ec
 
 
 
-## 🎨 Sites
+## 🎨 More Resources and Sites
 
-### Fonts
+### 🍇 Fonts
 - [Google Fonts](https://gridbyexample.com/)
-- [Modular Scale](https://www.modularscale.com/)
+- [Modular Scale for Typography](https://www.modularscale.com/)
 
 ## [Mozilla Developer Network](https://developer.mozilla.org/)
 
-### CSS Grid
+### 💪 CSS Grid
 1. [Quickly master CSS Grid](https://mozilladevelopers.github.io/playground/css-grid/)
 
 1. [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 
-### Web Developer information
+### 🥑 Web Developer information
 
 1. [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
 1. [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
@@ -147,7 +151,7 @@ Teaching basic skills for research computing. Online workshops for Python, R, Ec
 1. [Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 1. [Learn JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
-### CSS: Cascading Style Sheets
+### 🍎 CSS: Cascading Style Sheets
 1. [CSS Introduction, Tutorials and Reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
 1. [CSS Flexbox Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
 1. [CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
@@ -162,34 +166,36 @@ Teaching basic skills for research computing. Online workshops for Python, R, Ec
 - [CSS Grid Garden](http://cssgridgarden.com/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 
-## More on CSS Grid
+## 👍 More on CSS Grid
+1. [Grid by Example by Rachel Andrew](https://gridbyexample.com/)  
+Everything you need to learn CSS Grid Layout
 1. [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
 2. [CSS Tricks Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ##  🛠 Apps
-### Editors
+### 👉 Editors
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Atom.io](https://atom.io/)
 
-### Git
+### 👉 Git
 - [GitHub Desktop](https://desktop.github.com/)
 - [Git Kraken](https://www.gitkraken.com/)
 - [Git](https://git-scm.com/)
 - [Git GUI Clients](https://git-scm.com/downloads/guis/)
 
-### Browsers
+### 👉 Browsers
 - [Google Chrome](https://www.google.com/chrome/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/)
 
-### Graphic and Video Editors
+### 👉 Graphic and Video Editors
 - [Gimp, photo editor](https://www.gimp.org/)
 - [Inkscape, illustration](https://inkscape.org/)
 - [OpenShot, video editor](https://www.openshot.org/)
 
-### Server
+### 👉 Server
 - [MAMP](https://www.mamp.info/en/)
 
-## Social developer tools
+## 👉 Social developer tools
 
 - [Glitch](https://glitch.com/)
 - [Codepen](https://codepen.io/)  
