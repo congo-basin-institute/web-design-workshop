@@ -93,6 +93,8 @@ Each student will design and build a personal website.
 
 - [CSS Layout News](http://csslayout.news/)  
 A weekly collection of tutorials, news and information on all things CSS Layout by Rachel Andrew
+- [Responsive Design Newsletter](http://responsivedesignweekly.com/)  
+A free, once-weekly round-up of responsive design articles, tools, tips tutorials and inspirational links.
 
 ### ️👍 W3C Online Courses Free!
 Learn how to build Web sites using HTML5 and basic CSS, directly from W3C, creator of the latest Web standards.
