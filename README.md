@@ -1,71 +1,202 @@
-# Yaoundé web design workshop
+# 🇨🇲 Yaoundé web design workshop
 
 CBI and IBAY Web Design Workshop held November 5-7, 2019
 
-## Objectives
+## 👉 Objectives
 
 To provide training in HTML, CSS, Web Design and Web Site Development for students and early career professionals at HEIS, IITA and CRESA.
 
-## Outputs
+## 👉 Outputs
 
-Each student will produce a personal website.
+Each student will design and build a personal website.
 
-## Student websites and GitHub profile
+## 👩‍👩‍👦‍👦 Student websites and GitHub profiles
 
-- [Julia-yossa](https://julia-yossa.github.io/CJulia-yossa.github.io/)
-- [Julia-yossa on GitHub](https://github.com/julia-yossa)
+1. [Julia-yossa's website](https://julia-yossa.github.io/CJulia-yossa.github.io/) | 
+[GitHub Profile](https://github.com/julia-yossa)
 
-- [Blondelle Mélina Atsafack](https://lablondasse.github.io)
-- [Blondell Mélina Atsafack on GitHub](https://www.github.com/lablondasse)
+1. [Blondelle Mélina Atsafack](https://lablondasse.github.io) | [GitHub Profile](https://www.github.com/lablondasse)
 
-- [kamkodoriane](https://kamkodoriane.github.io/)
-- [kamkodoriane on github](https://github.com/kamkodoriane)
+1. [kamkodoriane](https://kamkodoriane.github.io/)
+ | [GitHub Profile](https://github.com/kamkodoriane)
 
-- [Tchuekam Tchatchoua Alain Michel](https://michel1302.github.io/) 
-- [Tchuekam Tchatchoua Alain Michel on github](https://michel1302.github.io/)
+1. [Tchuekam Tchatchoua Alain Michel](https://michel1302.github.io/) 
+ | [GitHub Profile](https://michel1302.github.io/)
 
-- [dassikouam](https://dassikouam.github.io/)
-- [dassikouam on github](https://www.github.com/dassikouam)
+1. [dassikouam](https://dassikouam.github.io/)
+ | [GitHub Profile](https://www.github.com/dassikouam)
 
-- [Ngwa Rogers](https://rogers8619.github.io/)
-- [Ngwa Rogers on github](https://www.github.com/rogers8619)
+1. [Ngwa Rogers](https://rogers8619.github.io/)
+ | [GitHub Profile](https://www.github.com/rogers8619)
 
-- [Dr. Godswill Ntsomboh Ntsefong](https://GodswillNN.github.io)
-- [Dr. Godswill Ntsomboh Ntsefong on github](https://www.github.com/GodswillNN)
+1. [Godswill Ntsomboh Ntsefong](https://GodswillNN.github.io)
+ | [GitHub Profile](https://www.github.com/GodswillNN)
 
-- [Ndifor James Nih](https://njnih.github.io)
-- [Ndifor James Nih on GitHub](https://www.github.com/njnih)
+1. [Ndifor James Nih](https://njnih.github.io)
+ | [GitHub Profile](https://www.github.com/njnih)
 
-- [Alain Brice Tonle Tonle](https://ttab303.github.io/)
-- [Alain Brice Tonle Tonle on github](https://www.github.com/ttab303)
+1. [Alain Brice Tonle Tonle](https://ttab303.github.io/)
+ | [GitHub Profile](https://www.github.com/ttab303)
 
-- [Ousseni Mfouapon Mbohou](https://oussenimbohou.github.io)
-- [Ousseni Mfouapon Mbohou on github](https://www.github.com/oussenimbohou)
+1. [Ousseni Mfouapon Mbohou](https://oussenimbohou.github.io)
+ | [GitHub Profile](https://www.github.com/oussenimbohou)
 
-- [tchanou-tchapda](https://tchanou-tchapda.github.io)
-- [tchanou-tchapda on github](https://github.com/tchanou-tchapda)
+1. [tchanou-tchapda](https://tchanou-tchapda.github.io)
+ | [GitHub Profile](https://github.com/tchanou-tchapda)
 
-- [Dr. Eric Nana](https://ericnana2000.github.io/)
-- [Dr. Eric Nana on GitHub](https://www.github.com/ericnana2000)
+1. [Eric Nana](https://ericnana2000.github.io/)
+ | [GitHub Profile](https://www.github.com/ericnana2000)
 
-- [Raoulsandjo.github.io](https://raoulsandjo.github.io)
-- [Raoulsandjo on GitHub](https://www.github.com/raoulsandjo)
+1. [Raoulsandjo.github.io](https://raoulsandjo.github.io)
+ | [GitHub Profile](https://www.github.com/raoulsandjo)
 
-- [Ashu Mpey Ayuk Bernice](https://ashumpey.github.io/)
-- [Ashu Mpey AyukBernice on GitHub](https://www.github.com/ashumpey)
+1. [Ashu Mpey Ayuk Bernice](https://ashumpey.github.io/)
+ | [GitHub Profile](https://www.github.com/ashumpey)
 
-- [Menye Yollande](https://menyeyollande.github.io)
-- [Menye Yollande on GitHub](https://www.github.com/menyeyollande)
+1. [Menye Yollande](https://menyeyollande.github.io)
+ | [GitHub Profile](https://www.github.com/menyeyollande)
 
-- [Eric Rostand](https://eric8514.github.io)
-- [Eric Rostand on GitHub](https://www.github.com/eric8514)
+1. [Eric Rostand](https://eric8514.github.io)
+ | [GitHub Profile](https://www.github.com/eric8514)
 
-- [Nicole Maffo](https://nicole-maffo.github.io/)
-- [Nicole Maffo on GitHub](https://www.github.com/nicole-maffo)
+1. [Nicole Maffo](https://nicole-maffo.github.io/)
+ | [GitHub Profile](https://www.github.com/nicole-maffo)
 
-- [junior Deguema.githhub.io](https://juniorDEGUEMA.githhub.io)
-- [Junior Deguema on GitHub](https://juniorDEGUEMA.githhub.io)
+1. [junior Deguema.githhub.io](https://juniorDEGUEMA.githhub.io)
+ | [GitHub Profile](https://juniorDEGUEMA.githhub.io)
 
+
+## 👨‍🏫 Instructor Websites
+
+### 🦍 Andy Clarke
+- [Stuff and Nonsense](https://stuffandnonsense.co.uk/)
+- [Articles on Smashing Magazine](https://www.smashingmagazine.com/author/andy-clarke/)
+- [On Twitter](https://twitter.com/Malarkey)
+- [GitHub Profile](https://github.com/malarkey/)
+
+### 🐴 Scott Gruber
+- [scottgruber.me](https://scottgruber.me/)
+- [UCLA](https://www.ioes.ucla.edu/person/scott-gruber/)
+- [Talks](https://speaking.scottgruber.me/)
+- [Side Project: 100 CSS Grid Layouts](https://scottgruber.github.io/100-layouts/)
+- [On Twitter](https://twitter.com/scott_gruber)
+- [GitHub Profile](https://github.com/scottgruber/)
+
+## 🌞 Links
+
+### ⚽️ W3C Online Courses Free!
+
+1. [HTML5 and CSS Fundamentals](https://www.edx.org/course/html5-and-css-fundamentals-3)  
+Learn how to build Web sites using HTML5 and basic CSS, directly from W3C, creator of the latest Web standards.
+
+1. [CSS Basics](https://www.edx.org/course/css-basics-2)  
+Learn how to take your Web pages from bland to bold with the power of CSS styling.
+
+###  🏀 Learn the Web  
+Learn the Web is a structured, curated, living guide to web development for graphic designers. Good reference materials available.
+
+1. [All Topics](https://learn-the-web.algonquindesign.ca/topics/)
+
+1. [Using Paths and Folders](https://learn-the-web.algonquindesign.ca/topics/paths-folders/)
+1. [Naming Files Rules](https://learn-the-web.algonquindesign.ca/topics/naming-conventions/)
+3. [Basic typography](https://learn-the-web.algonquindesign.ca/topics/basic-typography/)
+
+### 🛠 Carpentries
+Teaching basic skills for research computing. Online workshops for Python, R, Ecology, Genomics, Geospatial Data, Working with Data, OpenRefine.
+- [Software Carpentry workshops](https://software-carpentry.org/lessons/)
+- [Data Carpentry workshops](https://datacarpentry.org/lessons/)
+- [Library Carpentry workshops](https://librarycarpentry.org/lessons/)
+- [Git for Novices](http://swcarpentry.github.io/git-novice/)
+- [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/)
+- [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/)
+
+### <img src="img/octocat.png" width="20">  GitHub
+
+- [Getting started with GitHub Desktop](https://help.github.com/en/desktop/getting-started-with-github-desktop)
+- [Getting started with GitHub](https://help.github.com/en/github/getting-started-with-github)
+- [Working with GitHub Pages](https://help.github.com/en/github/working-with-github-pages)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+### 📚 Books
+
+- [Learning Web Design by Jennifer Robbins](https://learningwebdesign.com/)
+- [Pro Git by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
+- [Pro Git by Scott Chacon and Ben Straub Français](https://git-scm.com/book/fr/v2)
+- [Art Direction for the Web by Andy Clarke](https://stuffandnonsense.co.uk/artdirectionfortheweb/)
+
+
+
+## 🎨 Sites
+
+### Fonts
+- [Google Fonts](https://gridbyexample.com/)
+- [Modular Scale](https://www.modularscale.com/)
+
+## [Mozilla Developer Network](https://developer.mozilla.org/)
+
+### CSS Grid
+1. [Quickly master CSS Grid](https://mozilladevelopers.github.io/playground/css-grid/)
+
+1. [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+
+### Web Developer information
+
+1. [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
+1. [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+1. [Learn HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+1. [Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+1. [Learn JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+
+### CSS: Cascading Style Sheets
+1. [CSS Introduction, Tutorials and Reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
+1. [CSS Flexbox Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
+1. [CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+1. [CSS Shapes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Shapes)
+1. [CSS Transforms](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+1. [CSS Animation](https://developer.mozilla.org/)
+
+
+
+## 🎮 Games
+
+- [CSS Grid Garden](http://cssgridgarden.com/)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+
+## More on CSS Grid
+1. [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
+2. [CSS Tricks Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+##  🛠 Apps
+### Editors
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Atom.io](https://atom.io/)
+
+### Git
+- [GitHub Desktop](https://desktop.github.com/)
+- [Git Kraken](https://www.gitkraken.com/)
+- [Git](https://git-scm.com/)
+- [Git GUI Clients](https://git-scm.com/downloads/guis/)
+
+### Browsers
+- [Google Chrome](https://www.google.com/chrome/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/)
+
+### Graphic and Video Editors
+- [Gimp, photo editor](https://www.gimp.org/)
+- [Inkscape, illustration](https://inkscape.org/)
+- [OpenShot, video editor](https://www.openshot.org/)
+
+### Server
+- [MAMP](https://www.mamp.info/en/)
+
+## Social developer tools
+
+- [Glitch](https://glitch.com/)
+- [Codepen](https://codepen.io/)  
+  
+---  
+
+### <img src="img/yaounde-workshop.jpg" style="max-width: 600px"> 
 
 # Program
 
@@ -184,62 +315,7 @@ Each student will produce a personal website.
 - Next steps
 
 
-## Links
 
-### Tutorials
-- [Files, Paths and Naming conventions](https://learn-the-web.algonquindesign.ca/topics/paths-folders/)
-- [W3C Learning CSS](https://edx.org)
-
-### Materials
-
-- [Learning Web Design by Jennifer Robbins](https://learningwebdesign.com/)
-
-- [Pro Git by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
-- [Pro Git by Scott Chacon and Ben Straub Français](https://git-scm.com/book/fr/v2)
-
-
-### Apps
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [GitHub Desktop](https://desktop.github.com/)
-- [Atom.io](https://atom.io/)
-- [Google Chrome](https://www.google.com/chrome/)
-- [Firefox](https://www.mozilla.org/en-US/firefox/)
-- [MAMP](https://www.mamp.info/en/)
-- [Gimp, photo editor](https://www.gimp.org/)
-- [Inkscape, illustration](https://inkscape.org/)
-- [OpenShot, video editor](https://www.openshot.org/)
-
-
-
-
-### Sites
-- [Google Fonts](https://gridbyexample.com/)
-- [Modular Scale](https://www.modularscale.com/)
-- [Mozilla Developer Network](https://developer.mozilla.org/)
-- [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
-- [Learn HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-- [Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-- [Learn JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
-- [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-- [Playground to quickly master CSS Grid](https://mozilladevelopers.github.io/playground/css-grid/)
-- [CSS Shapes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Shapes)
-- [CSS Transforms](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
-- [CSS Animation](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations)
-- [CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
-- [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
-
-
-
-## Games
-
-- [CSS Grid Garden](http://cssgridgarden.com/)
-- [Flexbox Froggy](https://flexboxfroggy.com/)
-
-
-## Social developer tools
-
-- [Glitch](https://glitch.com/)
-- [Codepen](https://codepen.io/)
 
  
 
