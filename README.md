@@ -138,18 +138,25 @@ Teaching basic skills for research computing. Online workshops for Python, R, Ec
 
 ## 🎨 More Resources and Sites
 
+### W3C: Standards and Accessibility
+The World Wide Web Consortium (W3C) is an international community that develops open standards to ensure the long-term growth of the Web. 
+- [Web Accessibility Initiative](https://www.w3.org/WAI/)  
+Strategies, standards, resources to make the Web accessible to people with disabilities
+- [W3C Web Design Standards](https://www.w3.org/standards/webdesign/)  
+Web Design standards for building web pages, including HTML, CSS, SVG, device APIs.
+
 ### 🍇 Fonts
 - [Google Fonts](https://gridbyexample.com/)
 - [Modular Scale for Typography](https://www.modularscale.com/)
 
 ## [Mozilla Developer Network](https://developer.mozilla.org/)
 
-### 💪 CSS Grid
+### 👉 CSS Grid
 1. [Quickly master CSS Grid](https://mozilladevelopers.github.io/playground/css-grid/)
 
 1. [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 
-### 🥑 Web Developer information
+### 👉 Web Developer information
 
 1. [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
 1. [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
@@ -157,14 +164,13 @@ Teaching basic skills for research computing. Online workshops for Python, R, Ec
 1. [Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 1. [Learn JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
-### 🍎 CSS: Cascading Style Sheets
+### 👉 CSS: Cascading Style Sheets
 1. [CSS Introduction, Tutorials and Reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
 1. [CSS Flexbox Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
 1. [CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 1. [CSS Shapes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Shapes)
 1. [CSS Transforms](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 1. [CSS Animation](https://developer.mozilla.org/)
-
 
 
 ## 🎮 Games
