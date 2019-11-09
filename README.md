@@ -16,6 +16,8 @@ Each student will design and build a personal website.
 
 ## 👩‍👩‍👦‍👦 Student websites and GitHub profiles
 
+1. [Kamta Romeo](https://kamta19-web.github.io/) | [GitHub Profile](https://www.githun.com/kamta19-web)
+
 1. [Eric Onguene](https://eric8514.github.io) | [GitHub Profile](https://www.github.io/eric8514)
 
 1. [Julia-yossa's website](https://julia-yossa.github.io/CJulia-yossa.github.io/) | 
