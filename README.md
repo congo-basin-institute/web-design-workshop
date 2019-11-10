@@ -16,6 +16,8 @@ Each student will design and build a personal website.
 
 ## 👩‍👩‍👦‍👦 Student websites and GitHub profiles
 
+1. [Freddy Sany](https://fred-2019.github.io) | [GitHub Profile](https://www.github.com/fred-2019)
+
 1. [Kamta Romeo](https://kamta19-web.github.io/) | [GitHub Profile](https://www.githun.com/kamta19-web)
 
 1. [Eric Onguene](https://eric8514.github.io) | [GitHub Profile](https://www.github.io/eric8514)
