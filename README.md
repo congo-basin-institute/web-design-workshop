@@ -103,6 +103,14 @@ A weekly newsletter filled with design inspiration, a curated downloadable swatc
 - [Responsive Design Newsletter](http://responsivedesignweekly.com/)  
 A once-weekly round-up of responsive design articles, tools, tips tutorials and inspirational links.
 
+## Video Courses
+
+- [CSS Grid: Let's get Griddy with it](https://cssgrid.io/)  
+Learn CSS Grid: From fundamentals to Real World in about 4 hours.
+
+- [What TheFlexBox?!](https://flexbox.io/)  
+A simple, free 20 video course that will help you master CSS Flexbox!
+
 ### ️👍 W3C Online Courses Free!
 Learn how to build Web sites using HTML5 and basic CSS, directly from W3C, creator of the latest Web standards.
 
