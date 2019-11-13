@@ -96,10 +96,10 @@ Each student will design and build a personal website.
 
 ## Responsive designs
 
-- [Responsivedesign.is](https://responsivedesign.is/examples/)
+- [Responsivedesign.is](https://responsivedesign.is/examples/)  
 A curated collection of responsive designed websites. Each site features a screenshot across 4 device widths and you can see the media queries, viewport and resources that have been used to create the site.
 
-- [MediaQueries](https://mediaqueri.es/)
+- [MediaQueries](https://mediaqueri.es/)  
 A collection of inspirational websites using media queries and responsive web design. 
 
 ## 👍 Free video courses
