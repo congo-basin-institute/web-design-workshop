@@ -95,14 +95,13 @@ Each student will design and build a personal website.
 ## 🔗 Links
 
 
-## 👍 Video Courses and Screencasts
+## 👍 Free video courses
 
 - [CSS Grid: Let's get Griddy with it](https://cssgrid.io/)  
 Learn CSS Grid: From fundamentals to Real World in about 4 hours.
 
-- [What TheFlexBox?!](https://flexbox.io/)  
+- [What The FlexBox?!](https://flexbox.io/)  
 A simple, free 20 video course that will help you master CSS Flexbox!
-
 
 - [Learn CSS Variables for free](https://scrimba.com/g/gcssvariables)  
 This tutorial teaches you CSS Variables through eight interactive screencasts. It's value-packed from beginning to end, and is probably the fastest way to get an in-depth understanding of CSS Variables.
@@ -130,12 +129,11 @@ Learn how to build Web sites using HTML5 and basic CSS, directly from W3C, creat
 Learn the Web is a structured, curated, living guide to web development for graphic designers. Good reference materials available.
 
 1. [All Topics](https://learn-the-web.algonquindesign.ca/topics/)
-
 1. [Using Paths and Folders](https://learn-the-web.algonquindesign.ca/topics/paths-folders/)
 1. [Naming Files Rules](https://learn-the-web.algonquindesign.ca/topics/naming-conventions/)
 3. [Basic typography](https://learn-the-web.algonquindesign.ca/topics/basic-typography/)
 
-### 👍 🛠 Carpentries
+### 🛠 Carpentries
 Teaching basic skills for research computing. Online workshops for Python, R, Ecology, Genomics, Geospatial Data, Working with Data, OpenRefine.
 - [Software Carpentry workshops](https://software-carpentry.org/lessons/)
 - [Data Carpentry workshops](https://datacarpentry.org/lessons/)
@@ -144,7 +142,7 @@ Teaching basic skills for research computing. Online workshops for Python, R, Ec
 - [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/)
 - [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/)
 
-### <img src="img/octocat.png" width="20">  GitHub
+### <img src="img/octocat.png" width="20"> GitHub
 
 - [Getting started with GitHub Desktop](https://help.github.com/en/desktop/getting-started-with-github-desktop)
 - [Getting started with GitHub](https://help.github.com/en/github/getting-started-with-github)
@@ -179,7 +177,7 @@ Strategies, standards, resources to make the Web accessible to people with disab
 - [W3C Web Design Standards](https://www.w3.org/standards/webdesign/)  
 Web Design standards for building web pages, including HTML, CSS, SVG, device APIs.
 
-### 🍇 Fonts
+### Fonts
 - [Google Fonts](https://gridbyexample.com/)
 - [Modular Scale for Typography](https://www.modularscale.com/)
 
@@ -219,7 +217,8 @@ Everything you need to learn CSS Grid Layout
 2. [CSS Tricks Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ##  🛠 Apps
-### 👉 Editors
+
+### 👉 Text Editors
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Atom.io](https://atom.io/)
 
