@@ -94,22 +94,31 @@ Each student will design and build a personal website.
 
 ## 🔗 Links
 
-### 📰 Newsletters
 
-- [CSS Layout News](http://csslayout.news/)  
-A weekly collection of tutorials, news and information on all things CSS Layout by Rachel Andrew
-- [Veerle's Designers newsletter](https://veerle.duoh.com)  
-A weekly newsletter filled with design inspiration, a curated downloadable swatches color palette, quick design tips and the same resources I learn from.
-- [Responsive Design Newsletter](http://responsivedesignweekly.com/)  
-A once-weekly round-up of responsive design articles, tools, tips tutorials and inspirational links.
-
-## Video Courses
+## 👍 Video Courses and Screencasts
 
 - [CSS Grid: Let's get Griddy with it](https://cssgrid.io/)  
 Learn CSS Grid: From fundamentals to Real World in about 4 hours.
 
 - [What TheFlexBox?!](https://flexbox.io/)  
 A simple, free 20 video course that will help you master CSS Flexbox!
+
+
+- [Learn CSS Variables for free](https://scrimba.com/g/gcssvariables)  
+This tutorial teaches you CSS Variables through eight interactive screencasts. It's value-packed from beginning to end, and is probably the fastest way to get an in-depth understanding of CSS Variables.
+
+- [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE)  
+This tutorial teaches you CSS Grid through 14 interactive screencasts. You'll learn all the key concepts while building three awesome layouts: a website, an image grid, and an article. Plus, you'll learn how to combine CSS Grid with Flexbox.
+
+- [Learn Flexbox for free](https://scrimba.com/g/gflexbox)  
+This tutorial teaches you CSS Flexbox through 12 interactive screencasts. You'll learn all the key concept in addition to building a responsive navbar and a neat image grid.
+
+- [HTML & CSS Crash Course](https://scrimba.com/g/ghtmlcss)  
+Learn to build your very first web pages with this four hour course on HTML and CSS.
+
+- [Introduction to HTML](https://scrimba.com/g/ghtml)  
+Learn HTML5 by building your own website in less than an hour! This 15-part interactive tutorial is the perfect starting point for beginners who're looking for an introduction HTML to web development.
+
 
 ### ️👍 W3C Online Courses Free!
 Learn how to build Web sites using HTML5 and basic CSS, directly from W3C, creator of the latest Web standards.
@@ -141,6 +150,16 @@ Teaching basic skills for research computing. Online workshops for Python, R, Ec
 - [Getting started with GitHub](https://help.github.com/en/github/getting-started-with-github)
 - [Working with GitHub Pages](https://help.github.com/en/github/working-with-github-pages)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+
+### 📰 Free Email Newsletters
+
+- [CSS Layout News](http://csslayout.news/)  
+A weekly collection of tutorials, news and information on all things CSS Layout by Rachel Andrew
+- [Veerle's Designers newsletter](https://veerle.duoh.com)  
+A weekly newsletter filled with design inspiration, a curated downloadable swatches color palette, quick design tips and the same resources I learn from.
+- [Responsive Design Newsletter](http://responsivedesignweekly.com/)  
+A once-weekly round-up of responsive design articles, tools, tips tutorials and inspirational links.
 
 ### 📚 Books
 
