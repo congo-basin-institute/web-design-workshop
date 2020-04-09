@@ -2,8 +2,6 @@
 
 CBI and IBAY Web Design Workshop held November 5-7, 2019
 
-I can add a change and add a [link](https://www.qgis.com)
-
 ## 👉 Objectives
 
 To provide training in HTML, CSS, Web Design and Web Site Development for students and early career professionals at HEIS, IITA and CRESA.
